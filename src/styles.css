@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.frontend-wrapper {
+    background-color: blue;
+    color: white;
+}
+
+.backend-wrapper {
+    background-color: darkslategray;
+    color: white;
+}
